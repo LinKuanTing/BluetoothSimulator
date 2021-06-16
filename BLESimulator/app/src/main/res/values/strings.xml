@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLE</string>
+    <string name="Title_Name">Bluetooth simulator</string>
+    <string name="Scan_peripheral">Scan peripheral</string>
+    <string name="txtShow">Peripheral List</string>
+    <string name="work_as_peripheral">Work as peripheral</string>
+
+    <string name="advertise_setting">Advertise Setting</string>
+    <string name="OnGattServer">Open GattServer</string>
+    <string name="OnAdvertise">Start Advertising</string>
+    <string name="OffGattServer">Close GattServer And Stop Advertising</string>
+    <string name="Peripheral">Peripheral: </string>
+</resources>
